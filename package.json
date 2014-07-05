@@ -8,7 +8,7 @@
     "tools"
   ],
   "author": "Kenneth Kan <kenhkan@gmail.com>",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "licenses": [
     {
       "type": "MIT",
@@ -23,7 +23,7 @@
     "url": "git://github.com/kenhkan/noflo-handyman"
   },
   "dependencies": {
-    "noflo": "~0.4.0",
+    "noflo": "~0.5.0",
     "underscore": "1.4.x",
     "node-print": "0.0.x",
     "owl-deepcopy": "0.0.2"
